@@ -1,5 +1,5 @@
 {
-    "name": "@anitrack/patreon-wrapper",
+    "name": "@kamil897k/patreon-wrapper",
     "version": "1.5.2",
     "description": "Universal Patron API v2 wrapper that simplifies their API usage in JavaScript",
     "main": "lib/index.js",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/AniTrack/patreon-wrapper.git"
+        "url": "git://github.com/kamil897k/patreon-wrapper.git"
     },
     "author": "AniTrack",
     "keywords": [
@@ -20,9 +20,9 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/AniTrack/patreon-wrapper/issues"
+        "url": "https://github.com/kamil897k/patreon-wrapper/issues"
     },
-    "homepage": "https://github.com/AniTrack/patreon-wrapper#readme",
+    "homepage": "https://github.com/kamil897k/patreon-wrapper#readme",
     "dependencies": {
         "axios": "^0.27.2"
     },
